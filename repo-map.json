@@ -1,0 +1,2790 @@
+{
+  "generated": "2026-10-13",
+  "org": "interplanetaryfilesystem",
+  "source": "GitHub REST API via gh (read-only)",
+  "counts": {
+    "total": 75,
+    "forks": 73,
+    "originals": 2,
+    "upstream_archived": 14,
+    "superseded_deprecated_or_unmaintained": 20,
+    "upstream_active": 28,
+    "upstream_dormant_2y": 19,
+    "forks_behind": 49,
+    "forks_in_sync": 22,
+    "forks_diverged": 3
+  },
+  "status_rules": {
+    "active": "not archived, no deprecation notice, upstream pushed since 2024-10-13",
+    "dormant": "not archived, no upstream push since 2024-10-13"
+  },
+  "repos": [
+    {
+      "repo": "team-mgmt",
+      "archive_url": "https://github.com/interplanetaryfilesystem/team-mgmt",
+      "category": "Docs, community and education",
+      "fork": true,
+      "description": "IPFS Team Planning, Management & Coordination threads",
+      "our_last_push": "2021-09-15",
+      "our_default_branch": "master",
+      "upstream": "ipfs/team-mgmt",
+      "upstream_url": "https://github.com/ipfs/team-mgmt",
+      "immediate_parent": "ipfs/team-mgmt",
+      "upstream_homepage": "https://github.com/ipfs/team-mgmt/issues",
+      "creator": "IPFS Project",
+      "creator_site": "https://github.com/ipfs/team-mgmt/issues",
+      "upstream_archived": true,
+      "upstream_last_push": "2023-01-28",
+      "upstream_default_branch": "master",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 8
+      },
+      "fork_state": "8 behind",
+      "status": "archived",
+      "successor": "docs.ipfs.tech/community"
+    },
+    {
+      "repo": "community",
+      "archive_url": "https://github.com/interplanetaryfilesystem/community",
+      "category": "Docs, community and education",
+      "fork": true,
+      "description": "Discussion and documentation on community practices",
+      "our_last_push": "2022-03-31",
+      "our_default_branch": "master",
+      "upstream": "ipfs/community",
+      "upstream_url": "https://github.com/ipfs/community",
+      "immediate_parent": "ipfs/community",
+      "upstream_homepage": "https://docs.ipfs.tech/community/",
+      "creator": "IPFS Project",
+      "creator_site": "https://docs.ipfs.tech/community/",
+      "upstream_archived": false,
+      "upstream_last_push": "2026-08-10",
+      "upstream_default_branch": "master",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 39
+      },
+      "fork_state": "39 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "ipfs-desktop",
+      "archive_url": "https://github.com/interplanetaryfilesystem/ipfs-desktop",
+      "category": "Browser and desktop",
+      "fork": true,
+      "description": "An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux. ",
+      "our_last_push": "2022-06-07",
+      "our_default_branch": "main",
+      "upstream": "ipfs/ipfs-desktop",
+      "upstream_url": "https://github.com/ipfs/ipfs-desktop",
+      "immediate_parent": "ipfs/ipfs-desktop",
+      "upstream_homepage": "https://docs.ipfs.tech/install/ipfs-desktop/",
+      "creator": "IPFS Project",
+      "creator_site": "https://docs.ipfs.tech/install/ipfs-desktop/",
+      "upstream_archived": false,
+      "upstream_last_push": "2026-10-12",
+      "upstream_default_branch": "main",
+      "latest_release": "v0.50.1",
+      "latest_release_date": "2026-09-15",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 300
+      },
+      "fork_state": "300 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "ipfs-blog",
+      "archive_url": "https://github.com/interplanetaryfilesystem/ipfs-blog",
+      "category": "Docs, community and education",
+      "fork": true,
+      "description": "IPFS Blog & News",
+      "our_last_push": "2022-06-06",
+      "our_default_branch": "main",
+      "upstream": "ipfs/ipfs-blog",
+      "upstream_url": "https://github.com/ipfs/ipfs-blog",
+      "immediate_parent": "ipfs/ipfs-blog",
+      "upstream_homepage": "https://blog.ipfs.tech",
+      "creator": "IPFS Project",
+      "creator_site": "https://blog.ipfs.tech",
+      "upstream_archived": false,
+      "upstream_last_push": "2026-10-13",
+      "upstream_default_branch": "main",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 942
+      },
+      "fork_state": "942 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "ipfs-docs",
+      "archive_url": "https://github.com/interplanetaryfilesystem/ipfs-docs",
+      "category": "Docs, community and education",
+      "fork": true,
+      "description": "📚IPFS documentation platform",
+      "our_last_push": "2022-06-06",
+      "our_default_branch": "main",
+      "upstream": "ipfs/ipfs-docs",
+      "upstream_url": "https://github.com/ipfs/ipfs-docs",
+      "immediate_parent": "ipfs/ipfs-docs",
+      "upstream_homepage": "https://docs.ipfs.tech/",
+      "creator": "IPFS Project",
+      "creator_site": "https://docs.ipfs.tech/",
+      "upstream_archived": false,
+      "upstream_last_push": "2026-09-27",
+      "upstream_default_branch": "main",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 1099
+      },
+      "fork_state": "1099 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "ipld-explorer-components",
+      "archive_url": "https://github.com/interplanetaryfilesystem/ipld-explorer-components",
+      "category": "Content addressing, IPLD and CAR",
+      "fork": true,
+      "description": "React components for https://explore.ipld.io and ipfs-webui",
+      "our_last_push": "2022-06-06",
+      "our_default_branch": "master",
+      "upstream": "ipfs/ipld-explorer-components",
+      "upstream_url": "https://github.com/ipfs/ipld-explorer-components",
+      "immediate_parent": "ipfs/ipld-explorer-components",
+      "upstream_homepage": "",
+      "creator": "IPFS Project",
+      "creator_site": "https://ipfs.tech",
+      "upstream_archived": false,
+      "upstream_last_push": "2026-05-31",
+      "upstream_default_branch": "master",
+      "latest_release": "v8.2.3",
+      "latest_release_date": "2026-01-30",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 136
+      },
+      "fork_state": "136 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "ipfs-website",
+      "archive_url": "https://github.com/interplanetaryfilesystem/ipfs-website",
+      "category": "Docs, community and education",
+      "fork": true,
+      "description": "Official IPFS Project website",
+      "our_last_push": "2022-06-06",
+      "our_default_branch": "main",
+      "upstream": "ipfs/ipfs-website",
+      "upstream_url": "https://github.com/ipfs/ipfs-website",
+      "immediate_parent": "ipfs/ipfs-website",
+      "upstream_homepage": "https://ipfs.tech/",
+      "creator": "IPFS Project",
+      "creator_site": "https://ipfs.tech/",
+      "upstream_archived": false,
+      "upstream_last_push": "2026-08-25",
+      "upstream_default_branch": "main",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 217
+      },
+      "fork_state": "217 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "go-libp2p-relay-daemon",
+      "archive_url": "https://github.com/interplanetaryfilesystem/go-libp2p-relay-daemon",
+      "category": "Core implementations and networking",
+      "fork": true,
+      "description": "A standalone libp2p circuit relay daemon providing relay service for versions v1 and v2 of the protocol.",
+      "our_last_push": "2022-05-09",
+      "our_default_branch": "master",
+      "upstream": "libp2p/go-libp2p-relay-daemon",
+      "upstream_url": "https://github.com/libp2p/go-libp2p-relay-daemon",
+      "immediate_parent": "libp2p/go-libp2p-relay-daemon",
+      "upstream_homepage": "",
+      "creator": "libp2p",
+      "creator_site": "https://libp2p.io",
+      "upstream_archived": true,
+      "upstream_last_push": "2024-09-05",
+      "upstream_default_branch": "master",
+      "latest_release": "v0.5.0",
+      "latest_release_date": "2024-09-05",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 42
+      },
+      "fork_state": "42 behind",
+      "status": "archived; deprecated",
+      "successor": "Circuit Relay v2 built into go-libp2p (per upstream README)"
+    },
+    {
+      "repo": "specs",
+      "archive_url": "https://github.com/interplanetaryfilesystem/specs",
+      "category": "Core implementations and networking",
+      "fork": true,
+      "description": "Technical specifications for the libp2p networking stack",
+      "our_last_push": "2022-06-03",
+      "our_default_branch": "master",
+      "upstream": "libp2p/specs",
+      "upstream_url": "https://github.com/libp2p/specs",
+      "immediate_parent": "libp2p/specs",
+      "upstream_homepage": "https://libp2p.io",
+      "creator": "libp2p",
+      "creator_site": "https://libp2p.io",
+      "upstream_archived": false,
+      "upstream_last_push": "2026-10-09",
+      "upstream_default_branch": "master",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 237
+      },
+      "fork_state": "237 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "deltasearch",
+      "archive_url": "https://github.com/interplanetaryfilesystem/deltasearch",
+      "category": "Identity and other",
+      "fork": true,
+      "description": "Search engine for the Interplanetary Filesystem.",
+      "our_last_push": "2022-06-02",
+      "our_default_branch": "master",
+      "upstream": "ipfs-search/ipfs-search",
+      "upstream_url": "https://github.com/ipfs-search/ipfs-search",
+      "immediate_parent": "deltav-deltaverse/deltasearch",
+      "upstream_homepage": "http://ipfs-search.com",
+      "creator": "ipfs-search.com",
+      "creator_site": "http://ipfs-search.com",
+      "upstream_archived": false,
+      "upstream_last_push": "2023-10-27",
+      "upstream_default_branch": "master",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 79
+      },
+      "fork_state": "79 behind",
+      "status": "dormant (no push since 2023-10-27)",
+      "successor": ""
+    },
+    {
+      "repo": "persssist",
+      "archive_url": "https://github.com/interplanetaryfilesystem/persssist",
+      "category": "Identity and other",
+      "fork": true,
+      "description": "Storage decentralized application running on top of Rinkeby testnet for storing files metadata and IPFS protocol for uploading, sharing and downloading files.",
+      "our_last_push": "2022-04-11",
+      "our_default_branch": "main",
+      "upstream": "MCarlomagno/persssist",
+      "upstream_url": "https://github.com/MCarlomagno/persssist",
+      "immediate_parent": "THRUSTDeltaV/persssist",
+      "upstream_homepage": "",
+      "creator": "Marcos Carlomagno",
+      "creator_site": "unknown",
+      "upstream_archived": true,
+      "upstream_last_push": "2022-08-30",
+      "upstream_default_branch": "main",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 2
+      },
+      "fork_state": "2 behind",
+      "status": "archived",
+      "successor": ""
+    },
+    {
+      "repo": "resolution-browser-extension",
+      "archive_url": "https://github.com/interplanetaryfilesystem/resolution-browser-extension",
+      "category": "Browser and desktop",
+      "fork": true,
+      "description": "Surf the dweb today with chrome extension",
+      "our_last_push": "2022-04-28",
+      "our_default_branch": "master",
+      "upstream": "unstoppabledomains/resolution-browser-extension",
+      "upstream_url": "https://github.com/unstoppabledomains/resolution-browser-extension",
+      "immediate_parent": "unstoppabledomains/resolution-browser-extension",
+      "upstream_homepage": "https://unstoppabledomains.com/extension",
+      "creator": "Unstoppable Domains",
+      "creator_site": "https://unstoppabledomains.com/extension",
+      "upstream_archived": false,
+      "upstream_last_push": "2026-04-16",
+      "upstream_default_branch": "master",
+      "latest_release": "v3.1.63.4",
+      "latest_release_date": "2025-09-30",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 417
+      },
+      "fork_state": "417 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "ipfs-companion",
+      "archive_url": "https://github.com/interplanetaryfilesystem/ipfs-companion",
+      "category": "Browser and desktop",
+      "fork": true,
+      "description": "Browser extension that simplifies access to IPFS resources on the web",
+      "our_last_push": "2022-04-13",
+      "our_default_branch": "master",
+      "upstream": "ipfs/ipfs-companion",
+      "upstream_url": "https://github.com/ipfs/ipfs-companion",
+      "immediate_parent": "unstoppabledomains/ipfs-companion",
+      "upstream_homepage": "https://docs.ipfs.tech/install/ipfs-companion/",
+      "creator": "IPFS Project",
+      "creator_site": "https://docs.ipfs.tech/install/ipfs-companion/",
+      "upstream_archived": false,
+      "upstream_last_push": "2026-10-01",
+      "upstream_default_branch": "main",
+      "latest_release": "v3.4.0",
+      "latest_release_date": "2026-07-21",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 245
+      },
+      "fork_state": "245 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "Medium-Final",
+      "archive_url": "https://github.com/interplanetaryfilesystem/Medium-Final",
+      "category": "Docs, community and education",
+      "fork": true,
+      "description": "Medium web3 polygon point of departure ",
+      "our_last_push": "2022-06-10",
+      "our_default_branch": "main",
+      "upstream": "IAmJaysWay/Medium-Final",
+      "upstream_url": "https://github.com/IAmJaysWay/Medium-Final",
+      "immediate_parent": "IAmJaysWay/Medium-Final",
+      "upstream_homepage": "",
+      "creator": "IAmJaysWay",
+      "creator_site": "unknown",
+      "upstream_archived": false,
+      "upstream_last_push": "2022-06-10",
+      "upstream_default_branch": "main",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0
+      },
+      "fork_state": "in sync",
+      "status": "dormant (no push since 2022-06-10)",
+      "successor": ""
+    },
+    {
+      "repo": "lightspeed",
+      "archive_url": "https://github.com/interplanetaryfilesystem/lightspeed",
+      "category": "Identity and other",
+      "fork": false,
+      "description": "lightspeed using light.js DeltaVerse at the speed of light",
+      "our_last_push": "2022-07-09",
+      "our_default_branch": "main",
+      "upstream": null,
+      "status": "original to this org",
+      "note": ""
+    },
+    {
+      "repo": "js-ipfs-examples",
+      "archive_url": "https://github.com/interplanetaryfilesystem/js-ipfs-examples",
+      "category": "Core implementations and networking",
+      "fork": true,
+      "description": "javascript on the interplanetary file system point of departure",
+      "our_last_push": "2022-07-20",
+      "our_default_branch": "master",
+      "upstream": "ipfs-examples/js-ipfs-examples",
+      "upstream_url": "https://github.com/ipfs-examples/js-ipfs-examples",
+      "immediate_parent": "ipfs-examples/js-ipfs-examples",
+      "upstream_homepage": "",
+      "creator": "IPFS Examples",
+      "creator_site": "https://ipfs.tech",
+      "upstream_archived": true,
+      "upstream_last_push": "2023-03-06",
+      "upstream_default_branch": "master",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 7
+      },
+      "fork_state": "7 behind",
+      "status": "archived; superseded by Helia",
+      "successor": "ipfs/helia + ipfs-examples/helia-examples (js-ipfs itself is deprecated in favour of Helia)"
+    },
+    {
+      "repo": "ipfs-car",
+      "archive_url": "https://github.com/interplanetaryfilesystem/ipfs-car",
+      "category": "Content addressing, IPLD and CAR",
+      "fork": true,
+      "description": "Convert files to content-addressable archives and back",
+      "our_last_push": "2022-07-20",
+      "our_default_branch": "main",
+      "upstream": "storacha/ipfs-car",
+      "upstream_url": "https://github.com/storacha/ipfs-car",
+      "immediate_parent": "storacha/ipfs-car",
+      "upstream_homepage": "",
+      "creator": "Storacha Network",
+      "creator_site": "https://storacha.network",
+      "upstream_archived": false,
+      "upstream_last_push": "2025-10-08",
+      "upstream_default_branch": "main",
+      "latest_release": "v3.1.0",
+      "latest_release_date": "2025-10-08",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 28
+      },
+      "fork_state": "28 behind",
+      "status": "active (now hosted by Storacha, the renamed web3.storage team)",
+      "successor": ""
+    },
+    {
+      "repo": "web3.storage",
+      "archive_url": "https://github.com/interplanetaryfilesystem/web3.storage",
+      "category": "Gateways, pinning and storage services",
+      "fork": true,
+      "description": "⁂ The simple file storage service for IPFS & Filecoin",
+      "our_last_push": "2022-07-24",
+      "our_default_branch": "main",
+      "upstream": "web3-storage/web3.storage",
+      "upstream_url": "https://github.com/web3-storage/web3.storage",
+      "immediate_parent": "web3-storage/web3.storage",
+      "upstream_homepage": "https://web3.storage",
+      "creator": "Web3 Storage",
+      "creator_site": "https://web3.storage",
+      "upstream_archived": false,
+      "upstream_last_push": "2025-02-14",
+      "upstream_default_branch": "main",
+      "latest_release": "api-v7.25.1",
+      "latest_release_date": "2025-02-14",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 418
+      },
+      "fork_state": "418 behind",
+      "status": "deprecated (old API no longer takes uploads)",
+      "successor": "Storacha: storacha/upload-service (w3up protocol), storacha.network"
+    },
+    {
+      "repo": "example-image-gallery",
+      "archive_url": "https://github.com/interplanetaryfilesystem/example-image-gallery",
+      "category": "Gateways, pinning and storage services",
+      "fork": true,
+      "description": "A simple example of using Web3.Storage to share images using decentralized storage",
+      "our_last_push": "2022-04-11",
+      "our_default_branch": "main",
+      "upstream": "web3-storage/example-image-gallery",
+      "upstream_url": "https://github.com/web3-storage/example-image-gallery",
+      "immediate_parent": "web3-storage/example-image-gallery",
+      "upstream_homepage": "",
+      "creator": "Web3 Storage",
+      "creator_site": "https://web3.storage",
+      "upstream_archived": true,
+      "upstream_last_push": "2023-05-05",
+      "upstream_default_branch": "main",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0
+      },
+      "fork_state": "in sync",
+      "status": "archived",
+      "successor": "Storacha clients (storacha/upload-service)"
+    },
+    {
+      "repo": "ghostshare-frontend",
+      "archive_url": "https://github.com/interplanetaryfilesystem/ghostshare-frontend",
+      "category": "Identity and other",
+      "fork": true,
+      "description": "GhostShare stands for Private File Sharing. Simplified. It's a Web3 centered Application, BUT without any hassle with wallets or gas costs.",
+      "our_last_push": "2022-07-24",
+      "our_default_branch": "main",
+      "upstream": "fs2022-project/ghostshare-frontend",
+      "upstream_url": "https://github.com/fs2022-project/ghostshare-frontend",
+      "immediate_parent": "fs2022-project/ghostshare-frontend",
+      "upstream_homepage": "https://www.ghostshare.xyz",
+      "creator": "fs2022-project",
+      "creator_site": "https://www.ghostshare.xyz",
+      "upstream_archived": false,
+      "upstream_last_push": "2022-07-24",
+      "upstream_default_branch": "main",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0
+      },
+      "fork_state": "in sync",
+      "status": "dormant (no push since 2022-07-24)",
+      "successor": ""
+    },
+    {
+      "repo": "Web3.StorageLitIntegrationExample",
+      "archive_url": "https://github.com/interplanetaryfilesystem/Web3.StorageLitIntegrationExample",
+      "category": "Gateways, pinning and storage services",
+      "fork": true,
+      "description": "Web3.Storage Lit Integration Example",
+      "our_last_push": "2022-07-21",
+      "our_default_branch": "main",
+      "upstream": "Ghostshare/Web3.StorageLitIntegrationExample",
+      "upstream_url": "https://github.com/Ghostshare/Web3.StorageLitIntegrationExample",
+      "immediate_parent": "Ghostshare/Web3.StorageLitIntegrationExample",
+      "upstream_homepage": "",
+      "creator": "GhostShare",
+      "creator_site": "https://www.ghostshare.xyz/",
+      "upstream_archived": false,
+      "upstream_last_push": "2022-07-21",
+      "upstream_default_branch": "main",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0
+      },
+      "fork_state": "in sync",
+      "status": "dormant (no push since 2022-07-21)",
+      "successor": ""
+    },
+    {
+      "repo": "interform",
+      "archive_url": "https://github.com/interplanetaryfilesystem/interform",
+      "category": "Identity and other",
+      "fork": true,
+      "description": "forms in on the decentralized web. powered by filecoin and IPFS",
+      "our_last_push": "2022-07-26",
+      "our_default_branch": "main",
+      "upstream": "interform-open-web/interform",
+      "upstream_url": "https://github.com/interform-open-web/interform",
+      "immediate_parent": "interform-open-web/interform",
+      "upstream_homepage": "https://interform.app/",
+      "creator": "Interform",
+      "creator_site": "https://interform.app/",
+      "upstream_archived": false,
+      "upstream_last_push": "2022-07-26",
+      "upstream_default_branch": "main",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0
+      },
+      "fork_state": "in sync",
+      "status": "dormant (no push since 2022-07-26)",
+      "successor": ""
+    },
+    {
+      "repo": "polydocs",
+      "archive_url": "https://github.com/interplanetaryfilesystem/polydocs",
+      "category": "Identity and other",
+      "fork": true,
+      "description": "protected documents on polygon and ipfs",
+      "our_last_push": "2022-07-26",
+      "our_default_branch": "master",
+      "upstream": "statechangelabs/polydocs-old",
+      "upstream_url": "https://github.com/statechangelabs/polydocs-old",
+      "immediate_parent": "statechangelabs/polydocs-old",
+      "upstream_homepage": "https://polydocs.xyz",
+      "creator": "State Change Labs",
+      "creator_site": "https://polydocs.xyz",
+      "upstream_archived": false,
+      "upstream_last_push": "2022-09-10",
+      "upstream_default_branch": "main",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 205
+      },
+      "fork_state": "205 behind",
+      "status": "upstream renamed to statechangelabs/polydocs-old",
+      "successor": "statechangelabs/Polydocs-EIP exists; relationship unknown"
+    },
+    {
+      "repo": "blueprint",
+      "archive_url": "https://github.com/interplanetaryfilesystem/blueprint",
+      "category": "Dev tooling and deploy",
+      "fork": true,
+      "description": "solid framework for building APIs and backend services",
+      "our_last_push": "2022-07-19",
+      "our_default_branch": "master",
+      "upstream": "onehilltech/blueprint",
+      "upstream_url": "https://github.com/onehilltech/blueprint",
+      "immediate_parent": "onehilltech/blueprint",
+      "upstream_homepage": "",
+      "creator": "One Hill Technologies",
+      "creator_site": "https://onehilltech.com",
+      "upstream_archived": false,
+      "upstream_last_push": "2024-07-15",
+      "upstream_default_branch": "master",
+      "latest_release": "v2.7.0",
+      "latest_release_date": "2017-03-11",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 117
+      },
+      "fork_state": "117 behind",
+      "status": "dormant (no push since 2024-07-15)",
+      "successor": ""
+    },
+    {
+      "repo": "nft.storage-example-next.js",
+      "archive_url": "https://github.com/interplanetaryfilesystem/nft.storage-example-next.js",
+      "category": "Gateways, pinning and storage services",
+      "fork": true,
+      "description": "next.js interface for nft on ipfs",
+      "our_last_push": "2021-06-24",
+      "our_default_branch": "main",
+      "upstream": "nftstorage/nft.storage-example-next.js",
+      "upstream_url": "https://github.com/nftstorage/nft.storage-example-next.js",
+      "immediate_parent": "nftstorage/nft.storage-example-next.js",
+      "upstream_homepage": "",
+      "creator": "NFT.Storage",
+      "creator_site": "https://nft.storage",
+      "upstream_archived": false,
+      "upstream_last_push": "2024-07-03",
+      "upstream_default_branch": "main",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 1
+      },
+      "fork_state": "1 behind",
+      "status": "example for NFT.Storage Classic (decommissioned)",
+      "successor": ""
+    },
+    {
+      "repo": "nft.storage",
+      "archive_url": "https://github.com/interplanetaryfilesystem/nft.storage",
+      "category": "Gateways, pinning and storage services",
+      "fork": true,
+      "description": "😋 Free decentralized storage and bandwidth for NFTs on IPFS and Filecoin.",
+      "our_last_push": "2022-07-29",
+      "our_default_branch": "main",
+      "upstream": "nftstorage/nft.storage",
+      "upstream_url": "https://github.com/nftstorage/nft.storage",
+      "immediate_parent": "nftstorage/nft.storage",
+      "upstream_homepage": "https://classic.nft.storage",
+      "creator": "NFT.Storage",
+      "creator_site": "https://classic.nft.storage",
+      "upstream_archived": false,
+      "upstream_last_push": "2025-02-06",
+      "upstream_default_branch": "main",
+      "latest_release": "api-v4.10.0",
+      "latest_release_date": "2024-07-02",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 176
+      },
+      "fork_state": "176 behind",
+      "status": "NFT.Storage Classic uploads decommissioned 2024-06-30; retrieval continues",
+      "successor": "current NFT.Storage service at nft.storage"
+    },
+    {
+      "repo": "nftstorage.link",
+      "archive_url": "https://github.com/interplanetaryfilesystem/nftstorage.link",
+      "category": "Gateways, pinning and storage services",
+      "fork": true,
+      "description": "🪐 The IPFS gateway for NFT.Storage is not \"another gateway\", but a caching layer for NFTs that sits on top of existing IPFS public gateways.",
+      "our_last_push": "2022-07-29",
+      "our_default_branch": "main",
+      "upstream": "nftstorage/nftstorage.link",
+      "upstream_url": "https://github.com/nftstorage/nftstorage.link",
+      "immediate_parent": "nftstorage/nftstorage.link",
+      "upstream_homepage": "https://nft.storage/nft-storage-classic",
+      "creator": "NFT.Storage",
+      "creator_site": "https://nft.storage/nft-storage-classic",
+      "upstream_archived": false,
+      "upstream_last_push": "2024-12-04",
+      "upstream_default_branch": "main",
+      "latest_release": "edge-gateway-v1.16.0",
+      "latest_release_date": "2024-12-04",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 71
+      },
+      "fork_state": "71 behind",
+      "status": "NFT.Storage Classic decommissioned 2024-06-30; gateway retrieval continues",
+      "successor": "current NFT.Storage service at nft.storage"
+    },
+    {
+      "repo": "nftup",
+      "archive_url": "https://github.com/interplanetaryfilesystem/nftup",
+      "category": "Gateways, pinning and storage services",
+      "fork": true,
+      "description": "🆙 App to easily upload NFTs to IPFS on NFT.Storage with no-code, from the comfort of your laptop computer machine.",
+      "our_last_push": "2022-07-21",
+      "our_default_branch": "main",
+      "upstream": "nftstorage/nftup",
+      "upstream_url": "https://github.com/nftstorage/nftup",
+      "immediate_parent": "nftstorage/nftup",
+      "upstream_homepage": "https://nft.storage/nft-storage-classic",
+      "creator": "NFT.Storage",
+      "creator_site": "https://nft.storage/nft-storage-classic",
+      "upstream_archived": true,
+      "upstream_last_push": "2024-06-12",
+      "upstream_default_branch": "main",
+      "latest_release": "v1.0.2",
+      "latest_release_date": "2023-03-20",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 15
+      },
+      "fork_state": "15 behind",
+      "status": "archived; Classic decommissioned",
+      "successor": "current NFT.Storage service at nft.storage"
+    },
+    {
+      "repo": "checkup",
+      "archive_url": "https://github.com/interplanetaryfilesystem/checkup",
+      "category": "Gateways, pinning and storage services",
+      "fork": true,
+      "description": "✅ A tool to check up on data stored in dotStorage, ensuring it is available and retrievable.",
+      "our_last_push": "2022-07-11",
+      "our_default_branch": "main",
+      "upstream": "nftstorage/checkup",
+      "upstream_url": "https://github.com/nftstorage/checkup",
+      "immediate_parent": "nftstorage/checkup",
+      "upstream_homepage": "",
+      "creator": "NFT.Storage",
+      "creator_site": "https://nft.storage",
+      "upstream_archived": false,
+      "upstream_last_push": "2023-02-23",
+      "upstream_default_branch": "main",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 3
+      },
+      "fork_state": "3 behind",
+      "status": "no longer maintained (upstream notice)",
+      "successor": ""
+    },
+    {
+      "repo": "nft.storage-tools",
+      "archive_url": "https://github.com/interplanetaryfilesystem/nft.storage-tools",
+      "category": "Gateways, pinning and storage services",
+      "fork": true,
+      "description": "🛠 Utilities for working with nft.storage.",
+      "our_last_push": "2022-06-20",
+      "our_default_branch": "main",
+      "upstream": "nftstorage/nft.storage-tools",
+      "upstream_url": "https://github.com/nftstorage/nft.storage-tools",
+      "immediate_parent": "nftstorage/nft.storage-tools",
+      "upstream_homepage": "",
+      "creator": "NFT.Storage",
+      "creator_site": "https://nft.storage",
+      "upstream_archived": false,
+      "upstream_last_push": "2022-06-20",
+      "upstream_default_branch": "main",
+      "latest_release": "tag latest (no GitHub release)",
+      "latest_release_date": "unknown",
+      "compare_vs_upstream": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0
+      },
+      "fork_state": "in sync",
+      "status": "no longer maintained (upstream notice)",
+      "successor": ""
+    },
+    {
+      "repo": "react-nftstorage.link-fallback-example",
+      "archive_url": "https://github.com/interplanetaryfilesystem/react-nftstorage.link-fallback-example",
+      "category": "Gateways, pinning and storage services",
+      "fork": true,
+      "description": "Example React app showing how the nftstorage.link gateway fallback library can be used.",
+      "our_last_push": "2022-04-27",
+      "our_default_branch": "main",
+      "upstream": "nftstorage/react-nftstorage.link-fallback-example",
+      "upstream_url": "https://github.com/nftstorage/react-nftstorage.link-fallback-example",
+      "immediate_parent": "nftstorage/react-nftstorage.link-fallback-example",
+      "upstream_homepage": "",
+      "creator": "NFT.Storage",
+      "creator_site": "https://nft.storage",
+      "upstream_archived": false,
+      "upstream_last_push": "2022-04-27",
+      "upstream_default_branch": "main",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0
+      },
+      "fork_state": "in sync",
+      "status": "no longer maintained (upstream notice)",
+      "successor": ""
+    },
+    {
+      "repo": "ipfs-cluster",
+      "archive_url": "https://github.com/interplanetaryfilesystem/ipfs-cluster",
+      "category": "Gateways, pinning and storage services",
+      "fork": true,
+      "description": "A zero-dependency client to the IPFS Cluster HTTP API, built for the browser.",
+      "our_last_push": "2022-04-08",
+      "our_default_branch": "main",
+      "upstream": "nftstorage/ipfs-cluster",
+      "upstream_url": "https://github.com/nftstorage/ipfs-cluster",
+      "immediate_parent": "nftstorage/ipfs-cluster",
+      "upstream_homepage": "",
+      "creator": "NFT.Storage",
+      "creator_site": "https://nft.storage",
+      "upstream_archived": false,
+      "upstream_last_push": "2023-03-04",
+      "upstream_default_branch": "main",
+      "latest_release": "v5.0.1",
+      "latest_release_date": "2022-04-08",
+      "compare_vs_upstream": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0
+      },
+      "fork_state": "in sync",
+      "status": "no longer maintained (upstream notice)",
+      "successor": "IPFS Cluster itself: ipfs-cluster/ipfs-cluster (ipfscluster.io)"
+    },
+    {
+      "repo": "ipfs-check",
+      "archive_url": "https://github.com/interplanetaryfilesystem/ipfs-check",
+      "category": "Gateways, pinning and storage services",
+      "fork": true,
+      "description": "A tool for checking the accessibility of your data by IPFS peers",
+      "our_last_push": "2022-03-07",
+      "our_default_branch": "main",
+      "upstream": "ipfs/ipfs-check",
+      "upstream_url": "https://github.com/ipfs/ipfs-check",
+      "immediate_parent": "nftstorage/ipfs-check",
+      "upstream_homepage": "https://check.ipfs.network/",
+      "creator": "IPFS Project",
+      "creator_site": "https://check.ipfs.network/",
+      "upstream_archived": false,
+      "upstream_last_push": "2026-09-22",
+      "upstream_default_branch": "main",
+      "latest_release": "v0.11.2",
+      "latest_release_date": "2026-08-17",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 258
+      },
+      "fork_state": "258 behind",
+      "status": "active (canonical upstream is ipfs/ipfs-check; our immediate parent was nftstorage/ipfs-check)",
+      "successor": ""
+    },
+    {
+      "repo": "ipnftx",
+      "archive_url": "https://github.com/interplanetaryfilesystem/ipnftx",
+      "category": "Content addressing, IPLD and CAR",
+      "fork": true,
+      "description": "InterPlanetary NFT Extensions (IPNFTX)",
+      "our_last_push": "2021-09-16",
+      "our_default_branch": "main",
+      "upstream": "nftstorage/ipnftx",
+      "upstream_url": "https://github.com/nftstorage/ipnftx",
+      "immediate_parent": "nftstorage/ipnftx",
+      "upstream_homepage": "",
+      "creator": "NFT.Storage",
+      "creator_site": "https://nft.storage",
+      "upstream_archived": false,
+      "upstream_last_push": "2021-09-16",
+      "upstream_default_branch": "main",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0
+      },
+      "fork_state": "in sync",
+      "status": "no longer maintained (upstream notice)",
+      "successor": ""
+    },
+    {
+      "repo": "ipnft",
+      "archive_url": "https://github.com/interplanetaryfilesystem/ipnft",
+      "category": "Content addressing, IPLD and CAR",
+      "fork": true,
+      "description": "📜 InterPlanetary NFT (IPNFT) Spec",
+      "our_last_push": "2021-11-23",
+      "our_default_branch": "main",
+      "upstream": "nftstorage/ipnft",
+      "upstream_url": "https://github.com/nftstorage/ipnft",
+      "immediate_parent": "nftstorage/ipnft",
+      "upstream_homepage": "",
+      "creator": "NFT.Storage",
+      "creator_site": "https://nft.storage",
+      "upstream_archived": false,
+      "upstream_last_push": "2021-11-23",
+      "upstream_default_branch": "main",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0
+      },
+      "fork_state": "in sync",
+      "status": "no longer maintained (upstream notice)",
+      "successor": ""
+    },
+    {
+      "repo": "IPFS-Practical",
+      "archive_url": "https://github.com/interplanetaryfilesystem/IPFS-Practical",
+      "category": "Docs, community and education",
+      "fork": true,
+      "description": "practical IPFS NFT point of departure",
+      "our_last_push": "2022-08-17",
+      "our_default_branch": "master",
+      "upstream": "LearnWeb3DAO/IPFS-Practical",
+      "upstream_url": "https://github.com/LearnWeb3DAO/IPFS-Practical",
+      "immediate_parent": "LearnWeb3DAO/IPFS-Practical",
+      "upstream_homepage": "",
+      "creator": "LearnWeb3",
+      "creator_site": "https://www.learnweb3.io/",
+      "upstream_archived": false,
+      "upstream_last_push": "2023-03-07",
+      "upstream_default_branch": "master",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0
+      },
+      "fork_state": "in sync",
+      "status": "dormant (no push since 2023-03-07)",
+      "successor": ""
+    },
+    {
+      "repo": "IPFS-Theory",
+      "archive_url": "https://github.com/interplanetaryfilesystem/IPFS-Theory",
+      "category": "Docs, community and education",
+      "fork": true,
+      "description": "IPFS theoretical considerations",
+      "our_last_push": "2022-06-23",
+      "our_default_branch": "main",
+      "upstream": "LearnWeb3DAO/IPFS-Theory",
+      "upstream_url": "https://github.com/LearnWeb3DAO/IPFS-Theory",
+      "immediate_parent": "LearnWeb3DAO/IPFS-Theory",
+      "upstream_homepage": "",
+      "creator": "LearnWeb3",
+      "creator_site": "https://www.learnweb3.io/",
+      "upstream_archived": false,
+      "upstream_last_push": "2022-06-23",
+      "upstream_default_branch": "main",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0
+      },
+      "fork_state": "in sync",
+      "status": "dormant (no push since 2022-06-23)",
+      "successor": ""
+    },
+    {
+      "repo": "agregore-browser",
+      "archive_url": "https://github.com/interplanetaryfilesystem/agregore-browser",
+      "category": "Browser and desktop",
+      "fork": true,
+      "description": "A minimal browser for the distributed web (Desktop version)",
+      "our_last_push": "2022-08-18",
+      "our_default_branch": "master",
+      "upstream": "AgregoreWeb/agregore-browser",
+      "upstream_url": "https://github.com/AgregoreWeb/agregore-browser",
+      "immediate_parent": "parsec-wallet/agregore-browser",
+      "upstream_homepage": "https://www.youtube.com/watch?v=TnYKvOQB0ts&list=PL7sG5SCUNyeYx8wnfMOUpsh7rM_g0w_cu&index=14",
+      "creator": "Agregore Browser",
+      "creator_site": "https://agregore.mauve.moe",
+      "upstream_archived": false,
+      "upstream_last_push": "2026-07-13",
+      "upstream_default_branch": "master",
+      "latest_release": "v2.24.0",
+      "latest_release_date": "2026-04-23",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 227
+      },
+      "fork_state": "227 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "react-ens-address",
+      "archive_url": "https://github.com/interplanetaryfilesystem/react-ens-address",
+      "category": "Identity and other",
+      "fork": true,
+      "description": "React Component to resolve ENS names or reverse resolve addresses",
+      "our_last_push": "2019-11-25",
+      "our_default_branch": "master",
+      "upstream": "ensdomains/react-ens-address",
+      "upstream_url": "https://github.com/ensdomains/react-ens-address",
+      "immediate_parent": "PaulRBerg/react-ens-address",
+      "upstream_homepage": "",
+      "creator": "Ethereum Name Service (ENS)",
+      "creator_site": "https://ens.domains/",
+      "upstream_archived": false,
+      "upstream_last_push": "2022-12-10",
+      "upstream_default_branch": "master",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "diverged",
+        "ahead_by": 1,
+        "behind_by": 20
+      },
+      "fork_state": "diverged: 1 ahead / 20 behind",
+      "status": "dormant (no push since 2022-12-10)",
+      "successor": ""
+    },
+    {
+      "repo": "ens.domains",
+      "archive_url": "https://github.com/interplanetaryfilesystem/ens.domains",
+      "category": "Identity and other",
+      "fork": true,
+      "description": "ens domains",
+      "our_last_push": "2019-12-16",
+      "our_default_branch": "master",
+      "upstream": "ensdomains/ens.domains",
+      "upstream_url": "https://github.com/ensdomains/ens.domains",
+      "immediate_parent": "PaulRBerg/ens.domains",
+      "upstream_homepage": "https://ens.domains/",
+      "creator": "Ethereum Name Service (ENS)",
+      "creator_site": "https://ens.domains/",
+      "upstream_archived": false,
+      "upstream_last_push": "2022-12-08",
+      "upstream_default_branch": "master",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "diverged",
+        "ahead_by": 2,
+        "behind_by": 106
+      },
+      "fork_state": "diverged: 2 ahead / 106 behind",
+      "status": "dormant (no push since 2022-12-08)",
+      "successor": ""
+    },
+    {
+      "repo": "public-gateway-checker",
+      "archive_url": "https://github.com/interplanetaryfilesystem/public-gateway-checker",
+      "category": "Gateways, pinning and storage services",
+      "fork": true,
+      "description": "Checks which public gateways are online or not",
+      "our_last_push": "2022-09-12",
+      "our_default_branch": "master",
+      "upstream": "ipfs/public-gateway-checker",
+      "upstream_url": "https://github.com/ipfs/public-gateway-checker",
+      "immediate_parent": "ipfs/public-gateway-checker",
+      "upstream_homepage": "https://ipfs.github.io/public-gateway-checker/",
+      "creator": "IPFS Project",
+      "creator_site": "https://ipfs.github.io/public-gateway-checker/",
+      "upstream_archived": false,
+      "upstream_last_push": "2026-09-25",
+      "upstream_default_branch": "main",
+      "latest_release": "v1.23.3",
+      "latest_release_date": "2026-08-21",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 234
+      },
+      "fork_state": "234 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "graphprotocolcontracts",
+      "archive_url": "https://github.com/interplanetaryfilesystem/graphprotocolcontracts",
+      "category": "Identity and other",
+      "fork": true,
+      "description": "The Graph Protocol solidity contracts",
+      "our_last_push": "2022-09-23",
+      "our_default_branch": "dev",
+      "upstream": "graphprotocol/contracts",
+      "upstream_url": "https://github.com/graphprotocol/contracts",
+      "immediate_parent": "graphprotocol/contracts",
+      "upstream_homepage": "https://thegraph.com",
+      "creator": "The Graph",
+      "creator_site": "https://thegraph.com",
+      "upstream_archived": false,
+      "upstream_last_push": "2026-10-13",
+      "upstream_default_branch": "main",
+      "latest_release": "v2.1.0",
+      "latest_release_date": "2022-11-30",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 1686
+      },
+      "fork_state": "1686 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "web3.js",
+      "archive_url": "https://github.com/interplanetaryfilesystem/web3.js",
+      "category": "Identity and other",
+      "fork": true,
+      "description": "Ethereum JavaScript API",
+      "our_last_push": "2022-09-29",
+      "our_default_branch": "1.x",
+      "upstream": "web3/web3.js",
+      "upstream_url": "https://github.com/web3/web3.js",
+      "immediate_parent": "web3/web3.js",
+      "upstream_homepage": "https://web3js.org/",
+      "creator": "Web3",
+      "creator_site": "https://web3js.org/",
+      "upstream_archived": true,
+      "upstream_last_push": "2025-03-05",
+      "upstream_default_branch": "4.x",
+      "latest_release": "v4.16.0",
+      "latest_release_date": "2024-12-03",
+      "compare_vs_upstream": {
+        "status": "diverged",
+        "ahead_by": 173,
+        "behind_by": 892
+      },
+      "fork_state": "diverged: 173 ahead / 892 behind",
+      "status": "archived; sunset 2025-03-04",
+      "successor": "see the ChainSafe sunset/migration notice linked from the upstream README"
+    },
+    {
+      "repo": "camp",
+      "archive_url": "https://github.com/interplanetaryfilesystem/camp",
+      "category": "Docs, community and education",
+      "fork": true,
+      "description": "🏕 IPFS Camp is a 3 day hacker retreat designed for the builders a Distributed Web3 ",
+      "our_last_push": "2022-07-21",
+      "our_default_branch": "master",
+      "upstream": "ipfs/camp",
+      "upstream_url": "https://github.com/ipfs/camp",
+      "immediate_parent": "ipfs/camp",
+      "upstream_homepage": "https://camp.ipfs.io",
+      "creator": "IPFS Project",
+      "creator_site": "https://camp.ipfs.io",
+      "upstream_archived": true,
+      "upstream_last_push": "2025-05-10",
+      "upstream_default_branch": "master",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 8
+      },
+      "fork_state": "8 behind",
+      "status": "archived (IPFS Camp 2019-2022)",
+      "successor": ""
+    },
+    {
+      "repo": "awesome-ipfs",
+      "archive_url": "https://github.com/interplanetaryfilesystem/awesome-ipfs",
+      "category": "Docs, community and education",
+      "fork": true,
+      "description": "Useful resources for using IPFS and building things on top of it",
+      "our_last_push": "2022-10-08",
+      "our_default_branch": "master",
+      "upstream": "ipfs/awesome-ipfs",
+      "upstream_url": "https://github.com/ipfs/awesome-ipfs",
+      "immediate_parent": "ipfs/awesome-ipfs",
+      "upstream_homepage": "https://awesome.ipfs.tech/",
+      "creator": "IPFS Project",
+      "creator_site": "https://awesome.ipfs.tech/",
+      "upstream_archived": false,
+      "upstream_last_push": "2025-11-13",
+      "upstream_default_branch": "main",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 112
+      },
+      "fork_state": "112 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "IPFS-Ethereum-Hackathon",
+      "archive_url": "https://github.com/interplanetaryfilesystem/IPFS-Ethereum-Hackathon",
+      "category": "Docs, community and education",
+      "fork": true,
+      "description": "Repo for hackathon submissions ",
+      "our_last_push": "2018-01-08",
+      "our_default_branch": "master",
+      "upstream": "MetaMask/IPFS-Ethereum-Hackathon",
+      "upstream_url": "https://github.com/MetaMask/IPFS-Ethereum-Hackathon",
+      "immediate_parent": "MetaMask/IPFS-Ethereum-Hackathon",
+      "upstream_homepage": "",
+      "creator": "MetaMask",
+      "creator_site": "https://metamask.io",
+      "upstream_archived": true,
+      "upstream_last_push": "2018-01-08",
+      "upstream_default_branch": "master",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0
+      },
+      "fork_state": "in sync",
+      "status": "archived",
+      "successor": ""
+    },
+    {
+      "repo": "eth-ipfs-browser-client",
+      "archive_url": "https://github.com/interplanetaryfilesystem/eth-ipfs-browser-client",
+      "category": "Browser and desktop",
+      "fork": true,
+      "description": "Ethereum browser client based on ipfs/libp2p",
+      "our_last_push": "2017-10-06",
+      "our_default_branch": "master",
+      "upstream": "MetaMask/eth-ipfs-browser-client",
+      "upstream_url": "https://github.com/MetaMask/eth-ipfs-browser-client",
+      "immediate_parent": "MetaMask/eth-ipfs-browser-client",
+      "upstream_homepage": "",
+      "creator": "MetaMask",
+      "creator_site": "https://metamask.io",
+      "upstream_archived": true,
+      "upstream_last_push": "2017-10-06",
+      "upstream_default_branch": "master",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0
+      },
+      "fork_state": "in sync",
+      "status": "archived",
+      "successor": ""
+    },
+    {
+      "repo": "ICPwasm",
+      "archive_url": "https://github.com/interplanetaryfilesystem/ICPwasm",
+      "category": "Identity and other",
+      "fork": true,
+      "description": "Example applications, microservices, and code samples for the Internet Computer",
+      "our_last_push": "2022-11-11",
+      "our_default_branch": "master",
+      "upstream": "dfinity/examples",
+      "upstream_url": "https://github.com/dfinity/examples",
+      "immediate_parent": "dfinity/examples",
+      "upstream_homepage": "https://dfinity.org",
+      "creator": "DFINITY",
+      "creator_site": "https://dfinity.org",
+      "upstream_archived": false,
+      "upstream_last_push": "2026-09-28",
+      "upstream_default_branch": "master",
+      "latest_release": "rust-basic-bitcoin-25-10-10",
+      "latest_release_date": "2025-10-10",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 2701
+      },
+      "fork_state": "2701 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "decentralized-websites",
+      "archive_url": "https://github.com/interplanetaryfilesystem/decentralized-websites",
+      "category": "Dev tooling and deploy",
+      "fork": true,
+      "description": "Repository for resources on building decentralized websites",
+      "our_last_push": "2022-06-18",
+      "our_default_branch": "master",
+      "upstream": "unstoppabledomains/decentralized-websites",
+      "upstream_url": "https://github.com/unstoppabledomains/decentralized-websites",
+      "immediate_parent": "unstoppabledomains/decentralized-websites",
+      "upstream_homepage": "",
+      "creator": "Unstoppable Domains",
+      "creator_site": "https://unstoppabledomains.com",
+      "upstream_archived": true,
+      "upstream_last_push": "2026-05-27",
+      "upstream_default_branch": "master",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 2
+      },
+      "fork_state": "2 behind",
+      "status": "archived",
+      "successor": ""
+    },
+    {
+      "repo": "ipld",
+      "archive_url": "https://github.com/interplanetaryfilesystem/ipld",
+      "category": "Content addressing, IPLD and CAR",
+      "fork": true,
+      "description": "InterPlanetary Linked Data traversing data across protocols",
+      "our_last_push": "2022-11-23",
+      "our_default_branch": "master",
+      "upstream": "ipld/ipld",
+      "upstream_url": "https://github.com/ipld/ipld",
+      "immediate_parent": "ipld/ipld",
+      "upstream_homepage": "https://ipld.io/",
+      "creator": "IPLD",
+      "creator_site": "https://ipld.io/",
+      "upstream_archived": false,
+      "upstream_last_push": "2026-10-02",
+      "upstream_default_branch": "master",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 113
+      },
+      "fork_state": "113 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "js-ipld",
+      "archive_url": "https://github.com/interplanetaryfilesystem/js-ipld",
+      "category": "Content addressing, IPLD and CAR",
+      "fork": true,
+      "description": "The JavaScript Implementation of IPLD",
+      "our_last_push": "2021-08-11",
+      "our_default_branch": "master",
+      "upstream": "ipld/js-ipld",
+      "upstream_url": "https://github.com/ipld/js-ipld",
+      "immediate_parent": "ipld/js-ipld",
+      "upstream_homepage": "https://ipld.io",
+      "creator": "IPLD",
+      "creator_site": "https://ipld.io",
+      "upstream_archived": true,
+      "upstream_last_push": "2021-08-11",
+      "upstream_default_branch": "master",
+      "latest_release": "v0.30.2",
+      "latest_release_date": "2021-08-11",
+      "compare_vs_upstream": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0
+      },
+      "fork_state": "in sync",
+      "status": "archived; superseded",
+      "successor": "multiformats/js-multiformats (per upstream README)"
+    },
+    {
+      "repo": "go-ipld-prime",
+      "archive_url": "https://github.com/interplanetaryfilesystem/go-ipld-prime",
+      "category": "Content addressing, IPLD and CAR",
+      "fork": true,
+      "description": "Golang interfaces for the IPLD Data Model, with core Codecs included, IPLD Schemas support, and some handy functional transforms tools.",
+      "our_last_push": "2022-11-21",
+      "our_default_branch": "master",
+      "upstream": "ipld/go-ipld-prime",
+      "upstream_url": "https://github.com/ipld/go-ipld-prime",
+      "immediate_parent": "ipld/go-ipld-prime",
+      "upstream_homepage": "",
+      "creator": "IPLD",
+      "creator_site": "https://ipld.io",
+      "upstream_archived": false,
+      "upstream_last_push": "2026-10-01",
+      "upstream_default_branch": "master",
+      "latest_release": "v0.24.0",
+      "latest_release_date": "2026-06-02",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 183
+      },
+      "fork_state": "183 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "sha.js",
+      "archive_url": "https://github.com/interplanetaryfilesystem/sha.js",
+      "category": "Content addressing, IPLD and CAR",
+      "fork": true,
+      "description": "Streamable SHA hashes in pure javascript",
+      "our_last_push": "2022-04-08",
+      "our_default_branch": "master",
+      "upstream": "browserify/sha.js",
+      "upstream_url": "https://github.com/browserify/sha.js",
+      "immediate_parent": "idmanagement/sha.js",
+      "upstream_homepage": "",
+      "creator": "Browserify",
+      "creator_site": "https://browserify.org",
+      "upstream_archived": false,
+      "upstream_last_push": "2025-10-23",
+      "upstream_default_branch": "master",
+      "latest_release": "tag v2.4.12 (no GitHub release)",
+      "latest_release_date": "unknown",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 22
+      },
+      "fork_state": "22 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "ipfs-pubsub-compute",
+      "archive_url": "https://github.com/interplanetaryfilesystem/ipfs-pubsub-compute",
+      "category": "Core implementations and networking",
+      "fork": true,
+      "description": "IPFS python trigger in docker. An easy way to run code on other machines using IPFS Pubsub as the message queue, AWS's Python3.7 Lambda Docker Container for execution",
+      "our_last_push": "2019-05-26",
+      "our_default_branch": "master",
+      "upstream": "drbh/ipfs-pubsub-compute",
+      "upstream_url": "https://github.com/drbh/ipfs-pubsub-compute",
+      "immediate_parent": "idmanagement/ipfs-pubsub-compute",
+      "upstream_homepage": "https://medium.com/@david.richard.holtz/an-ipfs-application-demo-49a1255ffd0",
+      "creator": "drbh",
+      "creator_site": "https://medium.com/@david.richard.holtz/an-ipfs-application-demo-49a1255ffd0",
+      "upstream_archived": false,
+      "upstream_last_push": "2019-05-26",
+      "upstream_default_branch": "master",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0
+      },
+      "fork_state": "in sync",
+      "status": "dormant (no push since 2019-05-26)",
+      "successor": ""
+    },
+    {
+      "repo": "ethmail.cc",
+      "archive_url": "https://github.com/interplanetaryfilesystem/ethmail.cc",
+      "category": "Identity and other",
+      "fork": true,
+      "description": "ETHMail.cc",
+      "our_last_push": "2022-04-26",
+      "our_default_branch": "master",
+      "upstream": "CryptoverseCC/ethmail.cc",
+      "upstream_url": "https://github.com/CryptoverseCC/ethmail.cc",
+      "immediate_parent": "CryptoverseCC/ethmail.cc",
+      "upstream_homepage": "https://ethmail.cc/",
+      "creator": "cryptoverse.cc",
+      "creator_site": "https://ethmail.cc/",
+      "upstream_archived": false,
+      "upstream_last_push": "2022-04-26",
+      "upstream_default_branch": "master",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0
+      },
+      "fork_state": "in sync",
+      "status": "dormant (no push since 2022-04-26)",
+      "successor": ""
+    },
+    {
+      "repo": "ipfs-webui",
+      "archive_url": "https://github.com/interplanetaryfilesystem/ipfs-webui",
+      "category": "Browser and desktop",
+      "fork": true,
+      "description": "A frontend for an IPFS node.",
+      "our_last_push": "2023-01-16",
+      "our_default_branch": "main",
+      "upstream": "ipfs/ipfs-webui",
+      "upstream_url": "https://github.com/ipfs/ipfs-webui",
+      "immediate_parent": "ipfs/ipfs-webui",
+      "upstream_homepage": "https://webui.ipfs.io",
+      "creator": "IPFS Project",
+      "creator_site": "https://webui.ipfs.io",
+      "upstream_archived": false,
+      "upstream_last_push": "2026-10-11",
+      "upstream_default_branch": "main",
+      "latest_release": "v4.13.0",
+      "latest_release_date": "2026-07-16",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 227
+      },
+      "fork_state": "227 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "ref-fvm",
+      "archive_url": "https://github.com/interplanetaryfilesystem/ref-fvm",
+      "category": "Filecoin",
+      "fork": true,
+      "description": "Reference implementation of the Filecoin Virtual Machine",
+      "our_last_push": "2023-01-20",
+      "our_default_branch": "master",
+      "upstream": "filecoin-project/ref-fvm",
+      "upstream_url": "https://github.com/filecoin-project/ref-fvm",
+      "immediate_parent": "filecoin-project/ref-fvm",
+      "upstream_homepage": "https://fvm.filecoin.io/",
+      "creator": "Filecoin",
+      "creator_site": "https://fvm.filecoin.io/",
+      "upstream_archived": false,
+      "upstream_last_push": "2026-10-08",
+      "upstream_default_branch": "master",
+      "latest_release": "fvm_shared@v4.8.4",
+      "latest_release_date": "2026-10-08",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 394
+      },
+      "fork_state": "394 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "lotus",
+      "archive_url": "https://github.com/interplanetaryfilesystem/lotus",
+      "category": "Filecoin",
+      "fork": true,
+      "description": "Reference implementation of the Filecoin protocol, written in Go",
+      "our_last_push": "2023-01-20",
+      "our_default_branch": "master",
+      "upstream": "filecoin-project/lotus",
+      "upstream_url": "https://github.com/filecoin-project/lotus",
+      "immediate_parent": "filecoin-project/lotus",
+      "upstream_homepage": "https://lotus.filecoin.io/",
+      "creator": "Filecoin",
+      "creator_site": "https://lotus.filecoin.io/",
+      "upstream_archived": false,
+      "upstream_last_push": "2026-10-13",
+      "upstream_default_branch": "master",
+      "latest_release": "v1.38.1",
+      "latest_release_date": "2026-10-13",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 4873
+      },
+      "fork_state": "4873 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "FVM-Resouces",
+      "archive_url": "https://github.com/interplanetaryfilesystem/FVM-Resouces",
+      "category": "Filecoin",
+      "fork": true,
+      "description": "a resource repository for Filecoin virtual machine  and Filecoin network ",
+      "our_last_push": "2023-01-19",
+      "our_default_branch": "master",
+      "upstream": "umershaikh123/FVM-Resouces",
+      "upstream_url": "https://github.com/umershaikh123/FVM-Resouces",
+      "immediate_parent": "umershaikh123/FVM-Resouces",
+      "upstream_homepage": "",
+      "creator": "Muhammad Umer",
+      "creator_site": "https://muhammad-umer-portfolio-23.vercel.app/",
+      "upstream_archived": false,
+      "upstream_last_push": "2023-01-19",
+      "upstream_default_branch": "master",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0
+      },
+      "fork_state": "in sync",
+      "status": "dormant (no push since 2023-01-19)",
+      "successor": ""
+    },
+    {
+      "repo": "sign-in-with-web3",
+      "archive_url": "https://github.com/interplanetaryfilesystem/sign-in-with-web3",
+      "category": "Identity and other",
+      "fork": true,
+      "description": "With Sign-in With Web3, users will be able to take control of their digital identities with their Web3 accounts rather than relying on custodial Oauth providers such as Google and Facebook. What this means is that users don't need to share their information and usage data. Leveraging the security and privacy aspects of Web3 accounts, users can cont",
+      "our_last_push": "2023-02-04",
+      "our_default_branch": "master",
+      "upstream": "Web3Auth/sign-in-with-web3",
+      "upstream_url": "https://github.com/Web3Auth/sign-in-with-web3",
+      "immediate_parent": "Web3Auth/sign-in-with-web3",
+      "upstream_homepage": "https://web3auth.io/docs",
+      "creator": "Web3Auth",
+      "creator_site": "https://web3auth.io/docs",
+      "upstream_archived": false,
+      "upstream_last_push": "2026-09-29",
+      "upstream_default_branch": "master",
+      "latest_release": "6.2.0",
+      "latest_release_date": "2026-09-29",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 67
+      },
+      "fork_state": "67 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "merkletreejs",
+      "archive_url": "https://github.com/interplanetaryfilesystem/merkletreejs",
+      "category": "Content addressing, IPLD and CAR",
+      "fork": true,
+      "description": "🌱 Construct Merkle Trees and verify proofs in JavaScript.",
+      "our_last_push": "2022-12-01",
+      "our_default_branch": "master",
+      "upstream": "merkletreejs/merkletreejs",
+      "upstream_url": "https://github.com/merkletreejs/merkletreejs",
+      "immediate_parent": "merkletreejs/merkletreejs",
+      "upstream_homepage": "https://merkletree.js.org",
+      "creator": "MerkleTreeJS",
+      "creator_site": "https://merkletree.js.org",
+      "upstream_archived": false,
+      "upstream_last_push": "2025-09-15",
+      "upstream_default_branch": "master",
+      "latest_release": "v0.6.0",
+      "latest_release_date": "2025-09-15",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 57
+      },
+      "fork_state": "57 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "DoACS",
+      "archive_url": "https://github.com/interplanetaryfilesystem/DoACS",
+      "category": "Identity and other",
+      "fork": true,
+      "description": "Access Control Service allows you:  publish file of IPFS use IPNS approach to update files by link manage access to updating files on IPNS",
+      "our_last_push": "2023-02-06",
+      "our_default_branch": "master",
+      "upstream": "DoNFT/DoACS",
+      "upstream_url": "https://github.com/DoNFT/DoACS",
+      "immediate_parent": "DoNFT/DoACS",
+      "upstream_homepage": "",
+      "creator": "Do[NFT]",
+      "creator_site": "unknown",
+      "upstream_archived": false,
+      "upstream_last_push": "2023-03-28",
+      "upstream_default_branch": "master",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 14
+      },
+      "fork_state": "14 behind",
+      "status": "dormant (no push since 2023-03-28)",
+      "successor": ""
+    },
+    {
+      "repo": "metadata-playground",
+      "archive_url": "https://github.com/interplanetaryfilesystem/metadata-playground",
+      "category": "Content addressing, IPLD and CAR",
+      "fork": true,
+      "description": "Playground for Solidity metadata hash and CBOR encoded data appended to the contract bytecode.",
+      "our_last_push": "2022-11-17",
+      "our_default_branch": "main",
+      "upstream": "sourcifyeth/metadata-playground",
+      "upstream_url": "https://github.com/sourcifyeth/metadata-playground",
+      "immediate_parent": "sourcifyeth/metadata-playground",
+      "upstream_homepage": "",
+      "creator": "sourcify.eth",
+      "creator_site": "https://sourcify.dev",
+      "upstream_archived": false,
+      "upstream_last_push": "2026-09-24",
+      "upstream_default_branch": "main",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 42
+      },
+      "fork_state": "42 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "npm-on-ipfs",
+      "archive_url": "https://github.com/interplanetaryfilesystem/npm-on-ipfs",
+      "category": "Dev tooling and deploy",
+      "fork": true,
+      "description": ":package: Install npm modules through IPFS! ",
+      "our_last_push": "2022-04-11",
+      "our_default_branch": "master",
+      "upstream": "ipfs-shipyard/npm-on-ipfs",
+      "upstream_url": "https://github.com/ipfs-shipyard/npm-on-ipfs",
+      "immediate_parent": "ipfs-shipyard/npm-on-ipfs",
+      "upstream_homepage": "",
+      "creator": "IPFS Shipyard",
+      "creator_site": "https://ipfs.tech",
+      "upstream_archived": true,
+      "upstream_last_push": "2025-05-01",
+      "upstream_default_branch": "master",
+      "latest_release": "v0.16.3",
+      "latest_release_date": "2019-06-06",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 1
+      },
+      "fork_state": "1 behind",
+      "status": "archived",
+      "successor": ""
+    },
+    {
+      "repo": "ipfsPython",
+      "archive_url": "https://github.com/interplanetaryfilesystem/ipfsPython",
+      "category": "Core implementations and networking",
+      "fork": true,
+      "description": "upload files to ipfs in python",
+      "our_last_push": "2023-07-29",
+      "our_default_branch": "main",
+      "upstream": "CodeWithJoe2020/ipfsPython",
+      "upstream_url": "https://github.com/CodeWithJoe2020/ipfsPython",
+      "immediate_parent": "CodeWithJoe2020/ipfsPython",
+      "upstream_homepage": "",
+      "creator": "CodeWithJoe2020",
+      "creator_site": "https://www.youtube.com/channel/UCdgU4pljNproO0RQVbT5QKg",
+      "upstream_archived": false,
+      "upstream_last_push": "2023-07-29",
+      "upstream_default_branch": "main",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "ahead",
+        "ahead_by": 1,
+        "behind_by": 0
+      },
+      "fork_state": "1 ahead (our own commits)",
+      "status": "dormant (no push since 2023-07-29)",
+      "successor": ""
+    },
+    {
+      "repo": ".github",
+      "archive_url": "https://github.com/interplanetaryfilesystem/.github",
+      "category": "Identity and other",
+      "fork": false,
+      "description": "interplanetary file system",
+      "our_last_push": "2026-03-20",
+      "our_default_branch": "main",
+      "upstream": null,
+      "status": "original to this org",
+      "note": ""
+    },
+    {
+      "repo": "wave-share",
+      "archive_url": "https://github.com/interplanetaryfilesystem/wave-share",
+      "category": "Browser and desktop",
+      "fork": true,
+      "description": "Serverless, peer-to-peer, local file sharing through sound",
+      "our_last_push": "2020-12-11",
+      "our_default_branch": "master",
+      "upstream": "ggerganov/wave-share",
+      "upstream_url": "https://github.com/ggerganov/wave-share",
+      "immediate_parent": "ggerganov/wave-share",
+      "upstream_homepage": "https://ggerganov.github.io/wave-share",
+      "creator": "Georgi Gerganov",
+      "creator_site": "https://ggerganov.github.io/wave-share",
+      "upstream_archived": false,
+      "upstream_last_push": "2020-12-11",
+      "upstream_default_branch": "master",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0
+      },
+      "fork_state": "in sync",
+      "status": "dormant (no push since 2020-12-11)",
+      "successor": ""
+    },
+    {
+      "repo": "web-llm",
+      "archive_url": "https://github.com/interplanetaryfilesystem/web-llm",
+      "category": "Browser and desktop",
+      "fork": true,
+      "description": "Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.",
+      "our_last_push": "2023-08-03",
+      "our_default_branch": "main",
+      "upstream": "mlc-ai/web-llm",
+      "upstream_url": "https://github.com/mlc-ai/web-llm",
+      "immediate_parent": "webmindml/web-llm",
+      "upstream_homepage": "https://webllm.mlc.ai",
+      "creator": "mlc-ai",
+      "creator_site": "https://webllm.mlc.ai",
+      "upstream_archived": false,
+      "upstream_last_push": "2026-10-11",
+      "upstream_default_branch": "main",
+      "latest_release": "v0.2.86",
+      "latest_release_date": "2026-10-11",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 366
+      },
+      "fork_state": "366 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "indexvm",
+      "archive_url": "https://github.com/interplanetaryfilesystem/indexvm",
+      "category": "Identity and other",
+      "fork": true,
+      "description": "The Context Layer of the Decentralized Web",
+      "our_last_push": "2023-07-05",
+      "our_default_branch": "main",
+      "upstream": "ava-labs/indexvm",
+      "upstream_url": "https://github.com/ava-labs/indexvm",
+      "immediate_parent": "TNTbkc/indexvm",
+      "upstream_homepage": "",
+      "creator": "Ava Labs",
+      "creator_site": "https://www.avalabs.org",
+      "upstream_archived": true,
+      "upstream_last_push": "2023-07-05",
+      "upstream_default_branch": "main",
+      "latest_release": "v0.0.1",
+      "latest_release_date": "2023-02-21",
+      "compare_vs_upstream": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0
+      },
+      "fork_state": "in sync",
+      "status": "archived",
+      "successor": ""
+    },
+    {
+      "repo": "ipfs-linux-service",
+      "archive_url": "https://github.com/interplanetaryfilesystem/ipfs-linux-service",
+      "category": "Core implementations and networking",
+      "fork": true,
+      "description": "Run the IPFS daemon as a Linux system init daemon",
+      "our_last_push": "2015-04-21",
+      "our_default_branch": "master",
+      "upstream": "dylanPowers/ipfs-linux-service",
+      "upstream_url": "https://github.com/dylanPowers/ipfs-linux-service",
+      "immediate_parent": "DeltaLabratory/ipfs-linux-service",
+      "upstream_homepage": "",
+      "creator": "Dylan Powers",
+      "creator_site": "http://bits.dylankpowers.com",
+      "upstream_archived": false,
+      "upstream_last_push": "2015-04-21",
+      "upstream_default_branch": "master",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0
+      },
+      "fork_state": "in sync",
+      "status": "dormant (no push since 2015-04-21)",
+      "successor": ""
+    },
+    {
+      "repo": "ipfs-deploy",
+      "archive_url": "https://github.com/interplanetaryfilesystem/ipfs-deploy",
+      "category": "Dev tooling and deploy",
+      "fork": true,
+      "description": "Zero-Config CLI to Deploy Static Websites to IPFS",
+      "our_last_push": "2024-01-31",
+      "our_default_branch": "master",
+      "upstream": "ipfs-shipyard/ipfs-deploy",
+      "upstream_url": "https://github.com/ipfs-shipyard/ipfs-deploy",
+      "immediate_parent": "solsolution/ipfs-deploy",
+      "upstream_homepage": "",
+      "creator": "IPFS Shipyard",
+      "creator_site": "https://ipfs.tech",
+      "upstream_archived": false,
+      "upstream_last_push": "2025-05-10",
+      "upstream_default_branch": "master",
+      "latest_release": "v12.0.1",
+      "latest_release_date": "2022-09-26",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 1
+      },
+      "fork_state": "1 behind",
+      "status": "upstream labels it an \"old (2022) proof of concept\"",
+      "successor": "none named in upstream metadata"
+    },
+    {
+      "repo": "sns-deploy",
+      "archive_url": "https://github.com/interplanetaryfilesystem/sns-deploy",
+      "category": "Dev tooling and deploy",
+      "fork": true,
+      "description": "Upload static website to IPFS pinning services and update your Solana Name Service Records.",
+      "our_last_push": "2021-11-17",
+      "our_default_branch": "master",
+      "upstream": "Bonfida/sns-deploy",
+      "upstream_url": "https://github.com/Bonfida/sns-deploy",
+      "immediate_parent": "augml/sns-deploy",
+      "upstream_homepage": "",
+      "creator": "Solana Name Service",
+      "creator_site": "https://sns.id",
+      "upstream_archived": false,
+      "upstream_last_push": "2021-11-17",
+      "upstream_default_branch": "master",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "identical",
+        "ahead_by": 0,
+        "behind_by": 0
+      },
+      "fork_state": "in sync",
+      "status": "dormant (no push since 2021-11-17)",
+      "successor": ""
+    },
+    {
+      "repo": "helia",
+      "archive_url": "https://github.com/interplanetaryfilesystem/helia",
+      "category": "Core implementations and networking",
+      "fork": true,
+      "description": "implementation of IPFS in JavaScript",
+      "our_last_push": "2024-08-21",
+      "our_default_branch": "main",
+      "upstream": "ipfs/helia",
+      "upstream_url": "https://github.com/ipfs/helia",
+      "immediate_parent": "ipfs/helia",
+      "upstream_homepage": "https://helia.io",
+      "creator": "IPFS Project",
+      "creator_site": "https://helia.io",
+      "upstream_archived": false,
+      "upstream_last_push": "2026-10-13",
+      "upstream_default_branch": "main",
+      "latest_release": "unixfs-v8.0.9",
+      "latest_release_date": "2026-09-29",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 335
+      },
+      "fork_state": "335 behind",
+      "status": "active",
+      "successor": ""
+    },
+    {
+      "repo": "torrent-paradise",
+      "archive_url": "https://github.com/interplanetaryfilesystem/torrent-paradise",
+      "category": "Identity and other",
+      "fork": true,
+      "description": "Decentralized DHT search site for IPFS",
+      "our_last_push": "2021-02-28",
+      "our_default_branch": "master",
+      "upstream": "urbanguacamole/torrent-paradise",
+      "upstream_url": "https://github.com/urbanguacamole/torrent-paradise",
+      "immediate_parent": "Web3dGuy/torrent-paradise",
+      "upstream_homepage": "https://torrent-paradise.ml",
+      "creator": "urbanguacamole",
+      "creator_site": "https://torrent-paradise.ml",
+      "upstream_archived": false,
+      "upstream_last_push": "2023-12-30",
+      "upstream_default_branch": "master",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "behind",
+        "ahead_by": 0,
+        "behind_by": 16
+      },
+      "fork_state": "16 behind",
+      "status": "dormant (no push since 2023-12-30)",
+      "successor": ""
+    },
+    {
+      "repo": "deltaverse",
+      "archive_url": "https://github.com/interplanetaryfilesystem/deltaverse",
+      "category": "Identity and other",
+      "fork": true,
+      "description": "deltaverse platform delivery architecture",
+      "our_last_push": "2025-07-08",
+      "our_default_branch": "dev",
+      "upstream": "Web3dGuy/tauri-workflow-template",
+      "upstream_url": "https://github.com/Web3dGuy/tauri-workflow-template",
+      "immediate_parent": "BANKONPYTHAI/tauri-workflow-template",
+      "upstream_homepage": "",
+      "creator": "Web3dGuy",
+      "creator_site": "unknown",
+      "upstream_archived": false,
+      "upstream_last_push": "2025-07-08",
+      "upstream_default_branch": "dev",
+      "latest_release": "none",
+      "latest_release_date": "",
+      "compare_vs_upstream": {
+        "status": "ahead",
+        "ahead_by": 2,
+        "behind_by": 0
+      },
+      "fork_state": "2 ahead (our own commits)",
+      "status": "active",
+      "successor": ""
+    }
+  ],
+  "superseded": [
+    {
+      "archive": "js-ipfs-examples",
+      "what_happened": "`ipfs-examples/js-ipfs-examples` archived; `ipfs/js-ipfs` itself is archived and its README says it is superseded by Helia",
+      "go_now": "[ipfs/helia](https://github.com/ipfs/helia) · <https://helia.io> · [ipfs-examples/helia-examples](https://github.com/ipfs-examples/helia-examples)"
+    },
+    {
+      "archive": "helia",
+      "what_happened": "Active. It is the successor to js-ipfs, and our fork is 335 commits behind",
+      "go_now": "[ipfs/helia](https://github.com/ipfs/helia) · <https://helia.io>"
+    },
+    {
+      "archive": "js-ipld",
+      "what_happened": "Archived; its README says it is superseded by multiformats",
+      "go_now": "[multiformats/js-multiformats](https://github.com/multiformats/js-multiformats)"
+    },
+    {
+      "archive": "go-libp2p-relay-daemon",
+      "what_happened": "Archived. The README says it is no longer maintained: Relay v1 is gone from go-libp2p ≥ 0.26",
+      "go_now": "Circuit Relay v2 inside [libp2p/go-libp2p](https://github.com/libp2p/go-libp2p)"
+    },
+    {
+      "archive": "web3.storage",
+      "what_happened": "Old web3.storage API deprecated; the team now operates as Storacha",
+      "go_now": "[storacha/upload-service](https://github.com/storacha/upload-service) (w3up protocol, `@storacha/cli`) · <https://storacha.network>"
+    },
+    {
+      "archive": "ipfs-car",
+      "what_happened": "Moved from web3-storage to storacha. It is still active and released v3.1.0 on 2025-10-08",
+      "go_now": "[storacha/ipfs-car](https://github.com/storacha/ipfs-car)"
+    },
+    {
+      "archive": "nft.storage, nftup, nftstorage.link, nft.storage-tools, checkup, ipnft, ipnftx, ipfs-cluster (client), react-nftstorage.link-fallback-example, nft.storage-example-next.js",
+      "what_happened": "NFT.Storage Classic stopped taking uploads on 2024-06-30, but existing data can still be retrieved. Several of these repos carry \"no longer maintained\" notices",
+      "go_now": "<https://nft.storage> (current service); for IPFS Cluster itself, [ipfs-cluster/ipfs-cluster](https://github.com/ipfs-cluster/ipfs-cluster)"
+    },
+    {
+      "archive": "ipfs-deploy",
+      "what_happened": "Not archived, but the upstream description now reads \"Old (2022) proof of concept\"",
+      "go_now": "No successor is named in the upstream metadata. PARSEC deploys its own sites to Arweave with `permaweb-deploy`, not to IPFS"
+    },
+    {
+      "archive": "npm-on-ipfs",
+      "what_happened": "Archived",
+      "go_now": "none named"
+    },
+    {
+      "archive": "web3.js",
+      "what_happened": "Archived; its README says it was sunset on 2025-03-04",
+      "go_now": "See the ChainSafe sunset notice linked from the upstream README"
+    },
+    {
+      "archive": "team-mgmt, camp",
+      "what_happened": "Archived",
+      "go_now": "<https://docs.ipfs.tech/community/>"
+    },
+    {
+      "archive": "polydocs",
+      "what_happened": "Upstream renamed to `statechangelabs/polydocs-old`",
+      "go_now": "`statechangelabs/Polydocs-EIP` exists; its relationship to polydocs is unknown"
+    },
+    {
+      "archive": "ipfs-companion",
+      "what_happened": "Active. Our immediate parent `unstoppabledomains/ipfs-companion` is archived, but the canonical upstream is still active",
+      "go_now": "[ipfs/ipfs-companion](https://github.com/ipfs/ipfs-companion)"
+    },
+    {
+      "archive": "(not in archive) pinning-services-api-spec",
+      "what_happened": "`ipfs/pinning-services-api-spec` is archived and labelled \"Old (2022)\"",
+      "go_now": "[filecoin-project/filecoin-pin](https://github.com/filecoin-project/filecoin-pin) implements the Pinning Service API; the spec page is still at <https://ipfs.github.io/pinning-services-api-spec/>"
+    }
+  ],
+  "parsec": {
+    "checked_commit": "0041cd4 (2026-10-02)",
+    "repos_checked": [
+      "parsec-wallet/PARSEC"
+    ],
+    "ipfs_npm_or_crate_dependencies": [],
+    "components": [
+      {
+        "path": "src-tauri/src/parsec_mesh/ipfs.rs",
+        "uses": "Kubo RPC /api/v0 over HTTP (add, cat, pin/add, pin/rm, pin/ls, id, version, repo/stat)",
+        "archive_repos": [
+          "ipfs-desktop",
+          "ipfs-webui"
+        ],
+        "upstream": "ipfs/kubo",
+        "wired_to_ui": false,
+        "registered_via_registerModule": false
+      },
+      {
+        "path": "src/lib/algorand/ipfs-gateway.ts",
+        "uses": "HTTP path gateways with sequential fallback",
+        "gateways": [
+          "https://ipfs.algonode.xyz/ipfs/",
+          "https://ipfs.io/ipfs/",
+          "https://cf-ipfs.com/ipfs/",
+          "https://gateway.pinata.cloud/ipfs/"
+        ],
+        "archive_repos": [
+          "public-gateway-checker",
+          "ipfs-check"
+        ],
+        "upstream": "ipfs/public-gateway-checker; ipfs/rainbow; ipfs/service-worker-gateway",
+        "wired_to_ui": true
+      },
+      {
+        "path": "src/lib/algorand/nft-arc19.ts",
+        "uses": "in-house CIDv1 from ARC-19 reserve address",
+        "archive_repos": [
+          "ipld",
+          "js-ipld"
+        ],
+        "upstream": "multiformats/js-multiformats (not a dependency)",
+        "wired_to_ui": true
+      }
+    ],
+    "registered_modules": [
+      "lightspeed",
+      "permaweb",
+      "x402"
+    ],
+    "not_present": [
+      "helia",
+      "kubo-rpc-client",
+      "ipfs-car",
+      "storacha/w3up",
+      "pinning-service API client",
+      "IPNS",
+      "DNSLink",
+      "ipfs-deploy"
+    ]
+  },
+  "into": {
+    "forks_of_archive": [
+      {
+        "archive": "go-libp2p-relay-daemon",
+        "forks": [
+          "deltav-deltaverse/go-libp2p-relay-daemon"
+        ]
+      },
+      {
+        "archive": "specs",
+        "forks": [
+          "THRUSTDeltaV/specs"
+        ]
+      },
+      {
+        "archive": "deltasearch",
+        "forks": [
+          "ipNFTfs/deltasearch",
+          "cleancoindev/deltasearch"
+        ]
+      },
+      {
+        "archive": "persssist",
+        "forks": [
+          "cleancoindev/persssist"
+        ]
+      },
+      {
+        "archive": "ipfs-companion",
+        "forks": [
+          "ipNFTfs/ipfs-companion"
+        ]
+      },
+      {
+        "archive": "lightspeed",
+        "forks": [
+          "parsec-wallet/lightspeed"
+        ]
+      },
+      {
+        "archive": "web3.storage",
+        "forks": [
+          "ipNFTfs/web3.storage"
+        ]
+      },
+      {
+        "archive": "example-image-gallery",
+        "forks": [
+          "DeltaVThrust-NFT/example-image-gallery"
+        ]
+      },
+      {
+        "archive": "polydocs",
+        "forks": [
+          "DeltaVerseDAO/polydocs"
+        ]
+      },
+      {
+        "archive": "nft.storage-example-next.js",
+        "forks": [
+          "ipNFTfs/nft.storage-example-next.js"
+        ]
+      },
+      {
+        "archive": "nft.storage",
+        "forks": [
+          "ipNFTfs/nft.storage",
+          "DeltaVThrust-NFT/nft.storage"
+        ]
+      },
+      {
+        "archive": "nftup",
+        "forks": [
+          "ipNFTfs/nftup"
+        ]
+      },
+      {
+        "archive": "nft.storage-tools",
+        "forks": [
+          "DeltaVThrust-NFT/nft.storage-tools"
+        ]
+      },
+      {
+        "archive": "ipfs-check",
+        "forks": [
+          "ipNFTfs/ipfs-check"
+        ]
+      },
+      {
+        "archive": "ipnftx",
+        "forks": [
+          "ipNFTfs/ipnftx"
+        ]
+      },
+      {
+        "archive": "ipnft",
+        "forks": [
+          "ipNFTfs/ipNFTfspecs"
+        ]
+      },
+      {
+        "archive": "IPFS-Practical",
+        "forks": [
+          "ipNFTfs/IPFS-Practical"
+        ]
+      },
+      {
+        "archive": "eth-ipfs-browser-client",
+        "forks": [
+          "ipNFTfs/eth-ipfs-browser-client"
+        ]
+      },
+      {
+        "archive": "ipld",
+        "forks": [
+          "ipNFTfs/ipld"
+        ]
+      },
+      {
+        "archive": "sha.js",
+        "forks": [
+          "IPFSdapps/sha.js"
+        ]
+      },
+      {
+        "archive": "ipfs-pubsub-compute",
+        "forks": [
+          "ipNFTfs/ipfs-pubsub-compute"
+        ]
+      },
+      {
+        "archive": "FVM-Resouces",
+        "forks": [
+          "ipNFTfs/FVM-Resouces"
+        ]
+      },
+      {
+        "archive": "sign-in-with-web3",
+        "forks": [
+          "solidml/sign-in-with-web3"
+        ]
+      },
+      {
+        "archive": "merkletreejs",
+        "forks": [
+          "ipNFTfs/merkletreejs",
+          "webthreejs/merkletreejs"
+        ]
+      },
+      {
+        "archive": "metadata-playground",
+        "forks": [
+          "ipNFTfs/metadata-playground",
+          "DeltaVML/metadata-playground"
+        ]
+      },
+      {
+        "archive": "npm-on-ipfs",
+        "forks": [
+          "ipNFTfs/npm-on-ipfs"
+        ]
+      },
+      {
+        "archive": "ipfsPython",
+        "forks": [
+          "ipNFTfs/ipfsPython"
+        ]
+      },
+      {
+        "archive": "indexvm",
+        "forks": [
+          "IPFSdapps/indexvm"
+        ]
+      },
+      {
+        "archive": "ipfs-linux-service",
+        "forks": [
+          "ipNFTfs/ipfs-linux-service"
+        ]
+      },
+      {
+        "archive": "ipfs-deploy",
+        "forks": [
+          "ipNFTfs/ipfs-deploy",
+          "idmanagement/ipfs-deploy"
+        ]
+      },
+      {
+        "archive": "sns-deploy",
+        "forks": [
+          "rustchain/sns-deploy",
+          "idmanagement/sns-deploy"
+        ]
+      }
+    ],
+    "related_org_overlap": [
+      {
+        "repo": "parsec-wallet/lightspeed",
+        "parent": "interplanetaryfilesystem/lightspeed",
+        "source": "interplanetaryfilesystem/lightspeed"
+      },
+      {
+        "repo": "parsec-wallet/agregore-browser",
+        "parent": "AgregoreWeb/agregore-browser",
+        "source": "AgregoreWeb/agregore-browser"
+      },
+      {
+        "repo": "THRUSTCHAIN/lotus",
+        "parent": "researchsolution/lotus",
+        "source": "filecoin-project/lotus"
+      },
+      {
+        "repo": "deltav-deltaverse/decentralized-websites",
+        "parent": "unstoppabledomains/decentralized-websites",
+        "source": "unstoppabledomains/decentralized-websites"
+      },
+      {
+        "repo": "deltav-deltaverse/specs",
+        "parent": "libp2p/specs",
+        "source": "libp2p/specs"
+      },
+      {
+        "repo": "deltav-deltaverse/go-libp2p-relay-daemon",
+        "parent": "interplanetaryfilesystem/go-libp2p-relay-daemon",
+        "source": "libp2p/go-libp2p-relay-daemon"
+      },
+      {
+        "repo": "deltav-deltaverse/deltasearch",
+        "parent": "deltabridge/deltasearch",
+        "source": "ipfs-search/ipfs-search"
+      },
+      {
+        "repo": "deltav-deltaverse/metadata-playground",
+        "parent": "DeltaVML/metadata-playground",
+        "source": "sourcifyeth/metadata-playground"
+      },
+      {
+        "repo": "deltav-deltaverse/web3.js",
+        "parent": "web3/web3.js",
+        "source": "web3/web3.js"
+      },
+      {
+        "repo": "DeltaVThrust-NFT/decentralized-websites",
+        "parent": "unstoppabledomains/decentralized-websites",
+        "source": "unstoppabledomains/decentralized-websites"
+      },
+      {
+        "repo": "DeltaVThrust-NFT/example-image-gallery",
+        "parent": "interplanetaryfilesystem/example-image-gallery",
+        "source": "web3-storage/example-image-gallery"
+      },
+      {
+        "repo": "DeltaVThrust-NFT/nftup",
+        "parent": "nftstorage/nftup",
+        "source": "nftstorage/nftup"
+      },
+      {
+        "repo": "DeltaVThrust-NFT/nft.storage",
+        "parent": "interplanetaryfilesystem/nft.storage",
+        "source": "nftstorage/nft.storage"
+      },
+      {
+        "repo": "DeltaVThrust-NFT/nft.storage-tools",
+        "parent": "interplanetaryfilesystem/nft.storage-tools",
+        "source": "nftstorage/nft.storage-tools"
+      },
+      {
+        "repo": "DeltaVThrust-NFT/ipnftx",
+        "parent": "nftstorage/ipnftx",
+        "source": "nftstorage/ipnftx"
+      },
+      {
+        "repo": "DeltaVThrust-NFT/ipfsPython",
+        "parent": "AUTOMINDx/ipfsPython",
+        "source": "CodeWithJoe2020/ipfsPython"
+      }
+    ],
+    "code_search_hits": [
+      "THRUSTCHAIN/.github profile/README.md"
+    ]
+  },
+  "candidates_to_add": [
+    {
+      "upstream": "ipfs/kubo",
+      "why": "Go reference IPFS node; PARSEC parsec_mesh talks to its /api/v0 RPC",
+      "latest_release": "v0.43.1",
+      "date": "2026-09-15",
+      "command": "gh repo fork ipfs/kubo --org interplanetaryfilesystem --clone=false",
+      "name_collision": null
+    },
+    {
+      "upstream": "ipfs/js-kubo-rpc-client",
+      "why": "JS client for the Kubo RPC API (successor to ipfs-http-client)",
+      "latest_release": "v7.1.0",
+      "date": "2026-06-09",
+      "command": "gh repo fork ipfs/js-kubo-rpc-client --org interplanetaryfilesystem --clone=false",
+      "name_collision": null
+    },
+    {
+      "upstream": "ipfs/boxo",
+      "why": "Go reference libraries for IPFS implementations",
+      "latest_release": "v0.43.0",
+      "date": "2026-09-14",
+      "command": "gh repo fork ipfs/boxo --org interplanetaryfilesystem --clone=false",
+      "name_collision": null
+    },
+    {
+      "upstream": "ipfs/rainbow",
+      "why": "Production HTTP gateway daemon",
+      "latest_release": "v1.25.0",
+      "date": "2026-09-16",
+      "command": "gh repo fork ipfs/rainbow --org interplanetaryfilesystem --clone=false",
+      "name_collision": null
+    },
+    {
+      "upstream": "ipfs/someguy",
+      "why": "Delegated Routing V1 server (providers, peers, IPNS)",
+      "latest_release": "v0.16.0",
+      "date": "2026-07-29",
+      "command": "gh repo fork ipfs/someguy --org interplanetaryfilesystem --clone=false",
+      "name_collision": null
+    },
+    {
+      "upstream": "ipfs/service-worker-gateway",
+      "why": "In-browser trustless gateway (inbrowser.link)",
+      "latest_release": "v3.5.0",
+      "date": "2026-10-06",
+      "command": "gh repo fork ipfs/service-worker-gateway --org interplanetaryfilesystem --clone=false",
+      "name_collision": null
+    },
+    {
+      "upstream": "ipfs/helia-verified-fetch",
+      "why": "fetch-like verified retrieval on Helia",
+      "latest_release": "@helia/verified-fetch-8.1.2",
+      "date": "2026-09-22",
+      "command": "gh repo fork ipfs/helia-verified-fetch --org interplanetaryfilesystem --clone=false",
+      "name_collision": null
+    },
+    {
+      "upstream": "ipfs-examples/helia-examples",
+      "why": "Successor to js-ipfs-examples",
+      "latest_release": "none",
+      "date": "(last push 2026-07-30)",
+      "command": "gh repo fork ipfs-examples/helia-examples --org interplanetaryfilesystem --clone=false",
+      "name_collision": null
+    },
+    {
+      "upstream": "ipfs/specs",
+      "why": "IPFS protocol specs (specs.ipfs.tech); name collides with our libp2p \"specs\"",
+      "latest_release": "none",
+      "date": "(last push 2026-09-26)",
+      "command": "gh repo fork ipfs/specs --org interplanetaryfilesystem --clone=false",
+      "name_collision": "specs"
+    },
+    {
+      "upstream": "ipfs-cluster/ipfs-cluster",
+      "why": "Pinset orchestration; name collides with our nftstorage \"ipfs-cluster\" client",
+      "latest_release": "v1.1.6",
+      "date": "2026-05-11",
+      "command": "gh repo fork ipfs-cluster/ipfs-cluster --org interplanetaryfilesystem --clone=false",
+      "name_collision": "ipfs-cluster"
+    },
+    {
+      "upstream": "multiformats/js-multiformats",
+      "why": "CID/multihash/multibase; successor to js-ipld",
+      "latest_release": "v14.0.5",
+      "date": "2026-07-23",
+      "command": "gh repo fork multiformats/js-multiformats --org interplanetaryfilesystem --clone=false",
+      "name_collision": null
+    },
+    {
+      "upstream": "ipld/js-car",
+      "why": "CAR reader/writer for JavaScript",
+      "latest_release": "v5.4.7",
+      "date": "2026-07-30",
+      "command": "gh repo fork ipld/js-car --org interplanetaryfilesystem --clone=false",
+      "name_collision": null
+    },
+    {
+      "upstream": "storacha/upload-service",
+      "why": "Storacha upload service and @storacha/cli (w3up protocol); successor to web3.storage",
+      "latest_release": "@storacha/cli@3.0.1",
+      "date": "2026-05-20",
+      "command": "gh repo fork storacha/upload-service --org interplanetaryfilesystem --clone=false",
+      "name_collision": null
+    },
+    {
+      "upstream": "storacha/guppy",
+      "why": "Storacha client in Go",
+      "latest_release": "v0.7.0",
+      "date": "2026-04-15",
+      "command": "gh repo fork storacha/guppy --org interplanetaryfilesystem --clone=false",
+      "name_collision": null
+    },
+    {
+      "upstream": "libp2p/js-libp2p",
+      "why": "libp2p for JavaScript (Helia networking)",
+      "latest_release": "utils-v7.4.2",
+      "date": "2026-10-10",
+      "command": "gh repo fork libp2p/js-libp2p --org interplanetaryfilesystem --clone=false",
+      "name_collision": null
+    },
+    {
+      "upstream": "libp2p/go-libp2p",
+      "why": "libp2p for Go (Kubo networking; hosts Relay v2)",
+      "latest_release": "v0.50.0",
+      "date": "2026-09-21",
+      "command": "gh repo fork libp2p/go-libp2p --org interplanetaryfilesystem --clone=false",
+      "name_collision": null
+    },
+    {
+      "upstream": "filecoin-project/filecoin-pin",
+      "why": "Pinning Service API implementation that pins to Filecoin PDP",
+      "latest_release": "v2.2.0",
+      "date": "2026-10-08",
+      "command": "gh repo fork filecoin-project/filecoin-pin --org interplanetaryfilesystem --clone=false",
+      "name_collision": null
+    }
+  ],
+  "sync_commands": [
+    {
+      "repo": "community",
+      "behind_by": 39,
+      "command": "gh repo sync interplanetaryfilesystem/community --branch master"
+    },
+    {
+      "repo": "ipfs-desktop",
+      "behind_by": 300,
+      "command": "gh repo sync interplanetaryfilesystem/ipfs-desktop --branch main"
+    },
+    {
+      "repo": "ipfs-blog",
+      "behind_by": 942,
+      "command": "gh repo sync interplanetaryfilesystem/ipfs-blog --branch main"
+    },
+    {
+      "repo": "ipfs-docs",
+      "behind_by": 1099,
+      "command": "gh repo sync interplanetaryfilesystem/ipfs-docs --branch main"
+    },
+    {
+      "repo": "ipld-explorer-components",
+      "behind_by": 136,
+      "command": "gh repo sync interplanetaryfilesystem/ipld-explorer-components --branch master"
+    },
+    {
+      "repo": "ipfs-website",
+      "behind_by": 217,
+      "command": "gh repo sync interplanetaryfilesystem/ipfs-website --branch main"
+    },
+    {
+      "repo": "specs",
+      "behind_by": 237,
+      "command": "gh repo sync interplanetaryfilesystem/specs --branch master"
+    },
+    {
+      "repo": "resolution-browser-extension",
+      "behind_by": 417,
+      "command": "gh repo sync interplanetaryfilesystem/resolution-browser-extension --branch master"
+    },
+    {
+      "repo": "ipfs-car",
+      "behind_by": 28,
+      "command": "gh repo sync interplanetaryfilesystem/ipfs-car --branch main"
+    },
+    {
+      "repo": "ipfs-check",
+      "behind_by": 258,
+      "command": "gh repo sync interplanetaryfilesystem/ipfs-check --source ipfs/ipfs-check --branch main"
+    },
+    {
+      "repo": "agregore-browser",
+      "behind_by": 227,
+      "command": "gh repo sync interplanetaryfilesystem/agregore-browser --source AgregoreWeb/agregore-browser --branch master"
+    },
+    {
+      "repo": "ICPwasm",
+      "behind_by": 2701,
+      "command": "gh repo sync interplanetaryfilesystem/ICPwasm --branch master"
+    },
+    {
+      "repo": "ipld",
+      "behind_by": 113,
+      "command": "gh repo sync interplanetaryfilesystem/ipld --branch master"
+    },
+    {
+      "repo": "go-ipld-prime",
+      "behind_by": 183,
+      "command": "gh repo sync interplanetaryfilesystem/go-ipld-prime --branch master"
+    },
+    {
+      "repo": "sha.js",
+      "behind_by": 22,
+      "command": "gh repo sync interplanetaryfilesystem/sha.js --source browserify/sha.js --branch master"
+    },
+    {
+      "repo": "ipfs-webui",
+      "behind_by": 227,
+      "command": "gh repo sync interplanetaryfilesystem/ipfs-webui --branch main"
+    },
+    {
+      "repo": "ref-fvm",
+      "behind_by": 394,
+      "command": "gh repo sync interplanetaryfilesystem/ref-fvm --branch master"
+    },
+    {
+      "repo": "lotus",
+      "behind_by": 4873,
+      "command": "gh repo sync interplanetaryfilesystem/lotus --branch master"
+    },
+    {
+      "repo": "sign-in-with-web3",
+      "behind_by": 67,
+      "command": "gh repo sync interplanetaryfilesystem/sign-in-with-web3 --branch master"
+    },
+    {
+      "repo": "merkletreejs",
+      "behind_by": 57,
+      "command": "gh repo sync interplanetaryfilesystem/merkletreejs --branch master"
+    },
+    {
+      "repo": "metadata-playground",
+      "behind_by": 42,
+      "command": "gh repo sync interplanetaryfilesystem/metadata-playground --branch main"
+    },
+    {
+      "repo": "web-llm",
+      "behind_by": 366,
+      "command": "gh repo sync interplanetaryfilesystem/web-llm --source mlc-ai/web-llm --branch main"
+    },
+    {
+      "repo": "helia",
+      "behind_by": 335,
+      "command": "gh repo sync interplanetaryfilesystem/helia --branch main"
+    }
+  ],
+  "manual_fast_forward": [
+    {
+      "repo": "ipfs-companion",
+      "upstream": "ipfs/ipfs-companion",
+      "upstream_branch": "main",
+      "our_branch": "master",
+      "behind_by": 245
+    },
+    {
+      "repo": "public-gateway-checker",
+      "upstream": "ipfs/public-gateway-checker",
+      "upstream_branch": "main",
+      "our_branch": "master",
+      "behind_by": 234
+    },
+    {
+      "repo": "graphprotocolcontracts",
+      "upstream": "graphprotocol/contracts",
+      "upstream_branch": "main",
+      "our_branch": "dev",
+      "behind_by": 1686
+    },
+    {
+      "repo": "awesome-ipfs",
+      "upstream": "ipfs/awesome-ipfs",
+      "upstream_branch": "main",
+      "our_branch": "master",
+      "behind_by": 112
+    }
+  ]
+}
