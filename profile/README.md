@@ -6,6 +6,35 @@
 
 ---
 
+## Repository map
+
+This archive holds **75 repositories: 73 forks kept for study, plus 2 originals** (`.github`, `lightspeed`). The original work belongs to its creators, chiefly [Protocol Labs](https://protocol.ai) and the IPFS, IPLD, libp2p and Filecoin communities. Each fork links back to its upstream, and the upstream is where current code, docs and releases live.
+
+**[Read the full repository map →](https://github.com/interplanetaryfilesystem/.github/blob/main/REPO-MAP.md)** · [machine-readable JSON](https://github.com/interplanetaryfilesystem/.github/blob/main/repo-map.json)
+
+The map traces every repo **from** the archive to its creator, the creator's site, the upstream status, the latest release and how far our fork lags. It also maps what points **into** the archive: our other organizations, PARSEC wallet, and current upstream projects we do not hold yet.
+
+| As of 2026-10-13 | |
+|---|---|
+| Upstream active | 28 |
+| Upstream dormant (no push in 2 years) | 19 |
+| Upstream archived | 14 |
+| Superseded, deprecated or unmaintained upstream | 20 |
+| Our forks behind upstream | 49 |
+
+**Where things went:**
+- js-ipfs → [Helia](https://helia.io) ([ipfs/helia](https://github.com/ipfs/helia))
+- js-ipld → [multiformats](https://github.com/multiformats/js-multiformats)
+- web3.storage → [Storacha](https://storacha.network); ipfs-car now lives at [storacha/ipfs-car](https://github.com/storacha/ipfs-car)
+- NFT.Storage Classic: uploads stopped on 2024-06-30, but stored data can still be retrieved
+- go-libp2p-relay-daemon → Circuit Relay v2 in [go-libp2p](https://github.com/libp2p/go-libp2p)
+
+**PARSEC wallet** reaches IPFS as optional extensions. It talks to a participant's own [Kubo](https://github.com/ipfs/kubo) node over the RPC API, and resolves NFT media through gateways with fallback. It embeds no IPFS implementation. See the map for details and for what is not yet wired.
+
+Official sources: [ipfs.tech](https://ipfs.tech) · [docs.ipfs.tech](https://docs.ipfs.tech) · [specs.ipfs.tech](https://specs.ipfs.tech) · [helia.io](https://helia.io) · [ipld.io](https://ipld.io) · [libp2p.io](https://libp2p.io) · [filecoin.io](https://filecoin.io)
+
+---
+
 ## Why IPFS Matters
 
 The conventional internet is built on location addressing: data lives at a URL, on a server, owned by a company. When the server goes down, the data disappears. When the company shuts down, decades of human knowledge vanish. When a government blocks a URL, the information ceases to exist for an entire population.
